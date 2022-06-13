@@ -76,7 +76,7 @@ The 1984 advert showed the escape from a monopoly on the personal computer creat
 - No one was able to balance Jobs insane demands of the company, operations and product decisions.
 - Showed jobs side of ruthless business, in terms of managing operational costs.
 
-# What made Pixar successful?
+## What made Pixar successful?
 
 - Jobs was able to find exceptional people in John Lasseter and enabled them with great technology and strategic partnerships.
 - Ensured the business had the appropriate connections, deals and effective marketing of the achievements.
